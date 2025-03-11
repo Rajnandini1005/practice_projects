@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ }
+
+#logo{
+    font-size: 25px;
+    color: rgb(225, 173, 27);
+}
+
+button{
+    background-color: rgb(225, 173, 27);
+}
+
+header{
+    height: 60px;
+    background-color: rgb(20, 19, 19);
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+.ContentBox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#Content {
+    height: 700px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(20, 19, 19);
+}
+
+
+body{
+    text-align: center;
+    background-color: beige;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+}
+#box1 {
+    background-color: antiquewhite;
+}
+#box2 {
+    background-color: aqua;
+}
+#box3 {
+    background-color: rgb(35, 103, 103);
+}
+#box4 {
+    background-color: rgb(254, 184, 100);
+}
+#box5 {
+    background-color: rgb(253, 133, 255);
+}
